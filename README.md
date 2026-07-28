@@ -1,0 +1,1 @@
+# problema-inverso-1d
